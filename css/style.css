@@ -33,4 +33,5 @@ body {
 	border: solid;
 	color: rgb(152,173,166);
 	border-width: thick;
+	margin: 0 auto;
 }
