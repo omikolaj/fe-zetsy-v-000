@@ -29,5 +29,5 @@ body {
 #necklace img {
 	border: solid;
 	color: rgb(152,173,166);
-	border-width: tick;
+	border-width: thick;
 }
