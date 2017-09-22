@@ -29,3 +29,4 @@ body {
 div#logo > figure {
 	border: solid;
 }
+div#logo:nth-child((2))
