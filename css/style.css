@@ -25,3 +25,7 @@ body {
 	font-weight: normal;
 	font-family: 'Baskerville', 'serif';
 }
+
+div#logo > img {
+	border: solid;
+}
