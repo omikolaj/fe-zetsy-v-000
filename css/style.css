@@ -26,6 +26,6 @@ body {
 	font-family: 'Baskerville', 'serif';
 }
 
-div#logo:nth-child((2)) {
+div#logo #necklace {
 	border: solid;
 }
