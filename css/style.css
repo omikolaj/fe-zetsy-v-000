@@ -26,6 +26,7 @@ body {
 	font-family: 'Baskerville', 'serif';
 	border-bottom: solid;
 	border-bottom-width: thin;
+	padding-bottom: 20px;
 
 }
 
@@ -33,5 +34,5 @@ body {
 	border: solid;
 	color: rgb(152,173,166);
 	border-width: thick;
-	margin: 0 auto;
+	
 }
