@@ -30,6 +30,7 @@ body {
 }
 
 #necklace img {
+	padding-top: 0px;
 	border: solid;
 	color: rgb(152,173,166);
 	border-width: thick;
