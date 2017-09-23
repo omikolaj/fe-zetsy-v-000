@@ -56,15 +56,13 @@ header a {
 }
 
 #main a{
+	color: #1783bb;
 	text-decoration:none;
 }
 #main a:hover{
 	text-decoration: underline;
 }
 
-p:hover{
-	border: normal;
-}
 
 #main:nth-child(2){
 	font-size: 1em;
