@@ -39,3 +39,7 @@ h1{
 	border-width: 5px;
 	display: block;
 }
+
+#main h2{
+	color: rgb(152,173,166);
+}
