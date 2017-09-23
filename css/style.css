@@ -68,6 +68,7 @@ header a {
 }
 
 #links{
+	border: 5px #ccc solid;
 	margin-bottom: 20px;
 }
 
