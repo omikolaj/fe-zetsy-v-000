@@ -43,7 +43,7 @@ h1{
 
 #main h2{
 	color: rgb(111,127,122);
-	font-size: 30px;
+	font-size: 2em;
 }
 #main:nth-child(2){
 	font-family: 'Baskerville'
