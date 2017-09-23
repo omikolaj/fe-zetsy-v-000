@@ -67,8 +67,12 @@ header a {
 	border: 5px rgb(111,127,122) solid;
 }
 
+#links img{
+		border: 5px #ccc solid;
+}
+
 #links{
-	border: 5px #ccc solid;
+
 	margin-bottom: 20px;
 }
 
