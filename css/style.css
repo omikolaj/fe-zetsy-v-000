@@ -63,22 +63,10 @@ header a {
 	text-decoration: underline;
 }
 
-
-#main:nth-child(2){
-	font-size: 1em;
+#press img:hover{
+	border: 5px rgb(11,127,122) solid;
 }
 
-#links img{
-	border: 5px #ccc solid;
-	padding: 1px;
-	margin-bottom: 20px;
-}
-
-footer #copyright{
-	color: #555;
-	font-size: 0.8em;
-	margin: 0 0 20px 0;
-}
 footer{
 	text-align: right;
 }
