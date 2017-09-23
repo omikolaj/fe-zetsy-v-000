@@ -32,6 +32,17 @@ h1{
 
 }
 
+h2{
+	color: rgb(111,127,122);
+	font-size: 2em;
+}
+
+p {
+	color: #555;
+	font-size: 1em;
+	margin: 0 0 20px 0;
+}
+
 #main img {
 	border: solid;
 	color: rgb(152,173,166);
@@ -40,15 +51,6 @@ h1{
 	margin-bottom: 33px;
 }
 
-h2{
-	color: rgb(111,127,122);
-	font-size: 2em;
-}
-p {
-	color: #555;
-	font-size: 1em;
-	margin: 0 0 20px 0;
-}
 #main:nth-child(2){
 	font-size: 1em;
 }
