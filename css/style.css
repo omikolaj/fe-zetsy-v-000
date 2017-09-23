@@ -46,7 +46,7 @@ h1{
 }
 #main:nth-child(2){
 	font-family: 'Baskerville'
-
+	font-size: 100%;
 }
 
 #press h2{
