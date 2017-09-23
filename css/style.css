@@ -55,7 +55,7 @@ h1{
 	font-size: 30px
 }
 
-#links{
-	border: solid;
-	color: rgb(152,173,166);
+#links img{
+	border: 5px #ccc solid;
+	padding: 1px;
 }
