@@ -44,6 +44,10 @@ h2{
 	color: rgb(111,127,122);
 	font-size: 2em;
 }
+p {
+	color: #555;
+	font-size: 1em;
+}
 #main:nth-child(2){
 	font-size: 1em;
 }
