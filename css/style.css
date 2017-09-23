@@ -55,6 +55,9 @@ header a {
 	border: 5px rgb(152,173,166) solid;
 }
 
+#main a{
+	text-decoration:none;
+}
 
 #main:nth-child(2){
 	font-size: 1em;
