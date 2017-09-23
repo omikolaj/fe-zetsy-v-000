@@ -40,17 +40,12 @@ h1{
 	margin-bottom: 33px;
 }
 
-#main h2{
+h2{
 	color: rgb(111,127,122);
 	font-size: 2em;
 }
 #main:nth-child(2){
 	font-size: 1em;
-}
-
-#press h2{
-	color: rgb(111,127,122);
-	font-size: 30px
 }
 
 #links img{
