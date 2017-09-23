@@ -54,10 +54,14 @@ h1{
 	color: rgb(111,127,122);
 	font-size: 30px
 }
+#press{
+	margin-bottom: 20px;
+}
 
 #links img{
 	border: 5px #ccc solid;
 	padding: 1px;
+	
 }
 
 footer #copyright{
